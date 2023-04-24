@@ -1,0 +1,330 @@
+NOTES FORMAT:
+
+Claim is SET TO PAY:
+
+DOS 11/06/2020 as per review found the claim was submitted on 11/10/2020 and no response
+received yet, called payer UHC @ 877-842-3210 spoke with JULIE stated that the claim was received
+on 11/12/2020 and processed on 11/14/2020 and it is approved to pay, also rep confirmed that
+there is no denial on this claim. Rep said allowed $75.00 and set to pay $50.00 with pt resp Copay
+$25. Rep said the normal processing time is 30 business days from the received date so i verified the
+reason for the delay in processing rep said that there is no specific reason it is just due to backlog
+anyhow they will issue the payment soon, rep confirmed that payment will be out within a
+maximum of 15 business days from today. Therefore, please be allow some more days to receive the
+payment. Claim#12345 and Call reference# JULIE12212020. Thank you.
+
+Claim is SET TO PAY, 
+ACTION:
+
+“The claim was received and exceeded the normal processing time then ask the rep the
+reason for the delay in processing.
+
+Claim denied for NO AUTHORIZATION:
+
+DOS 07/26/2020 as per review found the claim with billed $1500.00 was submitted on 07/30/2020
+and no response received yet, Called payer UHC @ 877-842-3210 spoke with Sandy stated that the
+claim was received on 08/08/2020 and denied on 08/16/2020 stating no authorization on file.
+checked the system unable to find the authorization also verified the claim image no authorization
+was found in box#23, 21so checked the documents folder unable to find the authorization
+documents. So requested to rep to find any hospital claim was received on this DOS, rep checked
+and said no hospital claim found on this DOS. So verified the possibility of retro authorization rep
+said retro authorization is not possible. So requested the appeal information, rep said the appeal
+address is PO BOX 30432 SALT LAKE CITY UT 84130-0432 and appeal timely filing limit is 365 days
+from date of denial. 1 verified the billing summary no payment was found previously on this code.
+Therefore sending an appeal with medical records. Claim 98745 and Call reference 8578. Thank
+you
+
+AUTHORIZATION
+
+rovider needs to get from the insurance
+«itis the process of obtaining prior approval before providing certain service to the patient
+
+2 type:
+
++ a) Prior/Pre-authorization: Getting Approval BEFORE service
+
++b) Retro authorization: Getting Approval AFTER service.
+
+
+Claim denied for Co-ordination of benefits update/Additional information requested
+
+from patient:
+
+DOS 04/02/2020 as per review found the claim with billed $1500.00 was submitted on 04/10/2020
+and no response received yet, called payer UHC @ 877-842-3210 spoke with SANDY stated that the
+claim was received on 04/20/2020 and denied on 04/25/2020 stating additional information
+requested from the patient. Verified what information needed from the patient, Rep said they need
+co-ordination of benefits update, so | verified any letter sent out to patient regarding COB update,
+rep checked and said the first letter sent out to patient on 05/08/2020 and second letter sent on
+06/08/2020 and no response received so far. So, | requested to send 3rd letter rep accepted to send
+the last letter, aso the rep advised me to inform the member to call their member's benefits
+department at 877-852-4230 to update it. Rep said there is no time frame but asked to update as
+s00n as possible. Also, | requested the COB last updated date, the rep said it was last updated on
+02/08/2019 at that time UHC is primary and no other insurance was found. Also, the rep said once
+the COB has been updated by the patient the claim will automatically get process, and the provider
+no need to call back to inform. Claim XYZ5823 and Call referencelt SANDY12/05/2020. Thank you.
+
+COB, Action:
+
++ check patient payment history if payment on nearby DOS received from any other insurance
+2s. primary insurance then check the eligibility of that insurance and bill the claim to that
+insurance if policy is active on DOS as primary.
+
+Claim denied for MISSING/ABSENT REFERRAL:
+
+DOS 04/02/2020 as per review found the claim with billed $1500.00 was submitted on 04/10/2020
+and no response received yet, called payer UHC @ 877-842-3210 spoke with Sandy stated that the
+claim was received on 04/20/2020 and denied on 04/25/2020 stating referral number is missing.
+Verified the patient plan type rep said the patient plan is HMO so referral is needed. Checked in
+system and claim form in box# 23 unable to find referral number. Requested to check hospital claim,
+the rep checked and said hospital claim was not found. Therefore, requested the PCP (Primary care
+physician) name and phone number, rep said PCP name DONALD OBAMA & Phone 800-586-9321.
+Rep provided corrected claim mailing address is PO BOX 74088 ATLANTA GA 30374 and timely filing
+limit is 120 days from date of denial. Therefore, please resubmit the corrected claim with referral.
+Claim# UAS5823 and Call reference# SANDY09012020. Thank you.
+
+REFERRAL, Action:
+
+ Referralt is generated by PCP (referring provider) before sending the patient to the
+Specialist care provider.
+
+«Patient plan HMO & POS it is necessary to visit the referring doctor, so referral is required.
+
+«Patient plan PPO & EPO plan does not require the patient to visit the referring physician, so
+referral is not required.
+
+
+Claim denied for Patient policy terminated:
+DOS 04/02/2020 as per review found the claim with billed $1500.00 was submitted on 04/10/2020 and
+ no response received yet, called payer UHC @ 877-842-3210 spoke with SANDY stated that the claim 
+was received on 04/20/2020 and denied on 04/25/2020 stating Patient policy not active on this DOS.
+ Verified the Patient policy effective date and term date rep said the policy was effective from
+ 02/22/2019 to 02/21/2020. Also checked in billing summary/claim history unable to find claim payment 
+for other DOS after 02/21/2020. Also requested with the rep to find any other active policy on this
+ DOS, rep checked and said no active policy found. Requested the denied EOB through fax and it will
+ receive within a day. Also, I checked in system unbale to find other payer information.
+ Therefore, need to call the patient for an active policy if the patient doesn't have any active
+ policy, then the claim needs to bill the patient. Claim# XYN5823 and Call reference# SANDY09082020. Thank you.
+
+﻿
+
+Claim denied for DUPLICATE:
+DOS 04/02/2020 as per review found the claim with billed $1500.00 was submitted on 04/06/2020 and
+ no response received yet, Called payer UHC @ 877-842-3210 spoke with SANDY stated that the claim
+ was received on 04/10/2020 and denied on 04/20/2020 stating this is a duplicate claim. Asked 
+the rep to find this claim was received as an original claim or corrected claim, rep checked and 
+said it was received as an original claim so that it was denied as a duplicate. Verified the original
+ claim status, rep said the original claim was Paid it was received on 04/07/2020 and paid on 04/17/2020. 
+Paid $800.00 with patient responsibility Copay $30.00 paid through paper check for bulk check of $1000.00 
+under check# 12345678 issued on 04/25/2020. Verified the check pay to address found to be the same as
+ PO BOX 54032 BELFAST MAINE 78452. Verified the check cash date rep said it was cashed on 05/15/2020.
+ Requested both original and duplicate eob through fax back system and it will receive within a day.
+ I checked the system found we billed the claim twice with the same information. Therefore sending 
+the duplicate claim for adjustment. Original claim# ABC1234 and Duplicate claim# XYB5678.
+ Call reference# SANDY09162020. Thank you.
+
+DUPLICATE, Action:
+If two claims submitted to insurance with same claim information.
+AR caller need to call insurance and verify whether the claim received with same information or not.
+
+﻿
+
+Claim denied for INCLUSIVE | GLOBAL | BUNDLED DENIAL:
+DOS 04/02/2020 as per review found the claim with billed $1500.00 was submitted on 04/10/2020 and 
+no response received yet, called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim 
+was received on 04/20/2020 and denied on 04/25/2020 stating claim (CPT 78452) was bundled with another
+ claim. Asked the rep to which CPT code it was bundled with; the rep said the CPT 78452 was bundled 
+with CPT code 84321 on different DOS 04/01/2020. Verified global period rep said the global period
+ is 10 days. The rep suggested before sending an appeal asked to send a corrected claim first with 
+the appropriate modifier if the corrected claim is denied then send an appeal. Rep provided corrected 
+claim mailing address is PO BOX 740805 ATLANTA GA 30374 and timely filing limit is 120 days from date 
+of denial. I verified the billing summary no payment was found previously on this code. Therefore,
+ sending this to the coding team to send a corrected claim with the appropriate modifier. Claim# P458 
+and Call reference# SANDY10102020. Thank you.
+
+GLOBAL Action:
+•
+•
+If the DOS lies between the Global period range then it should be written off but there is a possibility 
+to separate out the procedure with main surgery by adding modifier as well, so assign it to the coding 
+team for clarification.
+What is Global Period?
+Certain post-operative services will not be paid for a duration of time stating that it was included in 
+previously paid surgery date of services. it is called global.
+
+﻿
+
+Claim denied for PRE-EXISTING CONDITION:
+DOS 04/10/2020 as per review found the claim with billed $1500.00 was submitted on 04/15/2020 and no 
+response received yet, called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was received 
+on 04/20/2020 and denied on 04/25/2020 stating a pre-existing condition are not covered. Verified about 
+waiting period rep said the waiting period is 15 days, the start and end date of the waiting period is 
+04/01/2020 to 04/15/2020. Requested to send a letter to the patient, the rep said they have already sent
+ a letter to the patient. Verified how many letters they have sent to the patient, the rep said they have 
+sent all 3 letters, the last letter sent on 05/30/2020, so they unable to send another letter. 
+Requested the denied EOB through fax and it will receive within a day. I verified the billing summary 
+no payment was found on any dos lies between this period. Therefore, need to bill the patient. 
+Claim# P458. Call reference# SANDY10152020. Thank you.
+
+PRE-EXISTING CONDITION, Action:
+.
+If DOS lies between start and end date of waiting period then bill the claim to patient. PRE-EXISTING CONDITION?
+If the patient having any illness or disease before taking the policy, those illness is called as pre-existing
+ conditions that has to mentioned at that time of taking policy. If it is not mentioned claim will be denied 
+as pre-existing condition.
+
+﻿
+
+Claim denied for CPT code is inconsistent Diagnosis code:
+DOS 04/10/2020 as per review found the claim with billed $1500.00 was submitted on 04/15/2020 and no response
+ received yet, called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was received on 04/20/2020
+ and denied on 04/25/2020 stating claim was denied for the CPT code is inconsistent with DX code. Verified about
+ the diagnosis code rep given we have billed 294.0, also checked claim form found the same Dx code. Checked in
+ billing summary no payment found previously with this CPT and Dx code combination. The rep suggested to send a 
+corrected claim with the appropriate Dx code and the corrected claim mailing address is
+ PO BOX 740805 ATLANTA GA 30374 and the timely filing limit is 120 days from the date of denial. 
+Therefore sending this to the coding team to verify the CPT and Dx combination. 
+Claim# 8324 and Call reference# 123. Thank you.
+
+ CPT & DX inconsistent, Action:
+• If you found payment on any previous dos with this CPT & Dx code combination, give that DOS to rep to verify 
+and ask to reprocess.
+If there is no payment found previously, then assign to the coding team to review and provide the correct 
+
+Dx code, and once a response is received with the correct Dx code then send a corrected claim.
+• Work as same for :
+• CPT code is inconsistent with the patient's age, CPT code is inconsistent with the patient's 
+gender (here CPT code needs to change).
+.
+Diagnosis code is inconsistent with patient's gender, Diagnosis code is inconsistent with patient's 
+age (here Dx code needs to change).
+
+
+﻿
+
+Claim denied for Maximum benefits have been met:
+DOS 04/10/2020 as per review found the claim with billed $1500.00 was submitted on 04/15/2020 and 
+no response received yet, called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was
+ received on 04/20/2020 and denied on 04/25/2020 stating maximum benefits has been met. Verified about 
+maximum benefits in terms of dollar or visit rep said max benefits reached in terms of visits. 
+Asked rep how many visits rep said 12 visits allowed per calendar year and the max visits was met
+ on DOS 01/03/2020. Requested the eob through fax and it will receive in 24 hours. Claim# 558. 
+Call reference# SANDY10152020. Thank you.
+
+Maximum benefits have been met, Action:
+•
+.
+.
+If the max benefits were not met then ask the rep to reprocess.
+If there is a secondary payer then bill to secondary along with primary eob. If there is no secondary 
+payer then bill the patient.
+Work as same for max benefits in terms of the dollar, how many dollars allowed, when was the last met.
+
+﻿
+
+Claim processed as Primary Paid more than Secondary Allowed:
+DOS 04/10/2020 as per review found the claim with billed $100.00 was submitted on 04/15/2020 and no response
+ received yet, called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was received on 04/20/2020 
+and denied on 04/25/2020 stating primary paid more than secondary allowed. Verified the secondary allowed amount 
+rep said secondary allowed $75.00 and also checked the primary eob found the primary already paid $70.00, so 
+the $5.00 only secondary paid which was already posted in software and the outstanding $15.00 is provider
+ write-off. Therefore, sending this to the posting team to adjust. Claim# WEC896 and Call reference# 4567. Thank you.
+Primary Paid more than Secondary Allowed, 
+
+ACTION:
+If the primary paid amount is more than the secondary allowed amount then write off/Adjust
+•If the primary paid amount is less than secondary allowed then ask the rep to reprocess.
+
+﻿
+
+Claim denied for NON COVERED SERVICE:
+DOS 04/10/2020 as per review found the claim with billed $100.00 was submitted on 04/15/2020 and no response received yet,
+ Called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was received on 04/20/2020 and denied on 04/25/2020
+ stating non covered under the patient plan, verified what is non-covered in the patient plan, the rep said the patient 
+plan doesn't cover out of network benefits. Requested what plan does the patient has, rep said the patient plan is Hmo.
+ Checked billing summary no payment found previously on this patient account. Therefore, requested the eob through fax 
+and it will receive in 24 hrs. Claim# 8979. Call reference# 55888. Thank you.
+
+NON-COVERED SERVICE, as per patient plan (HMO) ACTION:
+
+HMO and EPO plan doesn't cover OON therefore the denial is correct.
+PPO or POS cover OON then ask rep to send the claim back for reprocess
+If there is secondary payer on DOS then bill the claim to secondary.
+If there is no secondary payer on DOS then bill patient.
+
+Notes for Non covered under provider contract:
+........tating non covered as per provider contract, verified what is non-covered in provider contract rep said 
+the provider is not eligible to bill this service (CPT). Checked billing
+summary no payment found previously on this CPT code under our provider. 
+Requested appeal address PO BOX 30559 ATLANTA GA 3074 and time frame is 90 days.
+ Claim# 8979. Call reference# 55888. Thank you.
+
+
+﻿
+
+Claim denied for Medically not necessity:
+DOS 04/10/2020 as per review found the claim with billed $100.00 was submitted on 04/15/2020 and no response 
+received yet, Called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was received on 04/20/2020 
+and denied on 04/25/2020 stating medically not a necessity. Checked billing summary no payment found previously
+ on this diagnosis code and CPT code combination. Therefore, requested a corrected claim address
+ PO BOX 31362 SALT LAKE CITY UT 30895 and the time frame is 120 days from the denial date.
+ Also requested appeal address PO BOX 30559 ATLANTA GA 33589 and time frame is 90 days from denial date.
+ Therefore, sending this to the coding team for review. Claim# 99966. Call reference# 89997. Thank you.
+
+Medically not necessity, ACTION:
+.
+Assign to coding team to find correct Dx code, once response received from coding team then send a corrected claim.
+If coding team said the already billed Dx is valid no need to change then send an appeal with complete medical 
+records to show this service was done as medical necessity.
+
+﻿
+
+Claim denied for TIMELY FILING LIMIT (TFL) EXPIRED:
+DOS 04/10/2020 as per review found the claim with billed $100.00 was submitted on 04/15/2020 and no response received yet,
+ called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was denied on 06/25/2020 stating claim received
+ after the timely filing limit. Rep said the claim was *received on 06/15/2020 and the normal TFL is 60 days from DOS. 
+Rep asked to send an appeal with proof of timely (POTFL) also provided appeal address is PO BOX 30559 ATLANTA GA 33589
+ and time frame is 90 days from denial date. Therefore, need assistance to send an appeal with POTFL. Claim# 22255. 
+Call reference# 6633. Thank you.
+TIMELY FILING LIMIT (TFL) EXPIRED, ACTION:
+If claim billed within TFL then ask rep to reprocess.
+• If claim filed after TFL, as mentioned in the notes please send an appeal with any POTFL.
+•
+If claim was initially billed to different insurance within TFL, we can use that payer EOB as proof of timely.
+
+﻿
+
+Claim processed towards OFFSET:
+DOS 04/10/2020 as per review found the claim with billed $100.00 was submitted on 04/15/2020 and no response received yet, 
+called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was received 04/15/2020 processed on 04/25/2020 
+stating claim processed towards Offset. Requested the Allowed is $60.00 and the patient responsibility is copay $30.00.
+ Requested to which patient account# it was Offset rep said the patient account is 666633, the Offset DOS is 11/02/2019 
+and the CPT code is 83214, also rep gave the overpaid check# 55777 issued on 11/20/20219 and cashed on 12/07/2019.
+ Requested the eob through fax rep said it will receive within a day. Claim# 12213223. Call reference# 002. Thank you.
+Another possible reply from the rep stated due to HIPPA violence unable to disclose other patient details until or
+ unless you verify that particular patient information So I cannot provide you the payment or patient details. 
+In this case just ask the rep "what is that patient account#" document your notes as "rep refused to provide other patient
+ payment details due to HIPPA violence but provided that patient account# is 1234567".
+
+OFFSET, ACTION:
+If the payer previously overpaid or paid incorrectly then the claim needs to send for posting to close the account.
+What is Offset?
+Sometimes payer might mistakenly have paid or overpaid to the provider also provider not responded/refund the overpaid 
+amount to the payer then the payer will adjust that payment from future claims of that particular provider.
+ Adjustment can be taken from any patient under that provider.
+
+﻿
+
+Claim denied for Invalid place of service (POS):
+DOS 04/10/2020 as per review found the claim with billed $100.00 was submitted on 04/15/2020 and no response received yet,
+ Called payer UHC @ 877-842-3210 spoke with Sandy stated that the claim was received 04/15/2020 processed on 04/25/2020
+ stating invalid POS. Requested the rep to provider correct POS, rep doesn't have correct POS so asked the rep to check 
+any hospital claim received on this DOS, the rep said one hospital claim received on this DOS and therefore requested 
+the POS billed in that hospital claim rep said the POS in hospital claim is 21. Also, the corrected claim address is 
+PO BOX 31362 SALT LAKE CITY UT 30895 and the time frame is 120 days from the denial date. Need assistance to change
+ the POS, once changed corrected claim need to submit. Claim# 667799. Call reference# 88775. Thank you.
+.
+Invalid place of service (POS): ACTION:
+.
+·
+If rep provides correct POS then update it and send corrected claim.
+If rep doesn't provide correct POS then send to coding team to review and provide correct POS.
